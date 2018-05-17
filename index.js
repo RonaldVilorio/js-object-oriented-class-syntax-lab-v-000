@@ -19,10 +19,9 @@ class BoardMember{
   sayHi(){
     return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}.`
   }
-  // function
 }
 class Ceo{
   constructor(){
-    
+
   }
 }
