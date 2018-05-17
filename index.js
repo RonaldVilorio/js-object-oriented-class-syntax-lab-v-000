@@ -13,5 +13,8 @@ class BoardMember{
   doCharity(){
     "I like to help people."
   }
+  releasePressStatement(){
+    "You will see great things from Scuber."
+  }
   // function
 }
