@@ -5,19 +5,19 @@ class BoardMember{
     this.training = training
   }
   veto(){
-    "No, I must disagree"
+    return "No, I must disagree"
   }
   approve(){
-    "You can do that!"
+    return "You can do that!"
   }
   doCharity(){
-    "I like to help people."
+    return "I like to help people."
   }
   releasePressStatement(){
-    "You will see great things from Scuber."
+    return "You will see great things from Scuber."
   }
   sayHi(){
-    `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}`
+    return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}`
   }
   // function
 }
