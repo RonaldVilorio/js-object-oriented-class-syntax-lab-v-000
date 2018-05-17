@@ -21,3 +21,8 @@ class BoardMember{
   }
   // function
 }
+class Ceo{
+  constructor(){
+    
+  }
+}
