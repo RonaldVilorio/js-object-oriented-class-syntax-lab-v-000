@@ -10,5 +10,8 @@ class BoardMember{
   approve(){
     "You can do that!"
   }
+  doCharity(){
+    "I like to help people."
+  }
   // function
 }
